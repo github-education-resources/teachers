@@ -32,6 +32,6 @@ For account or school-specific questions, or anything else you'd prefer to ask i
 
 ## How-to
 
-To be notified of all new activity, [watch the repository](https://help.github.com/articles/watching-repositories).
+To be notified of all new activity, [watch the repository](https://help.github.com/articles/watching-repositories).  Too many emails? Not a problem. You can use the "Subscribe" or "Unsubscribe" buttons on individual discussions. You can also toggle your global notification preferences in your [account settings](https://github.com/settings/notifications), to control which notifications go to email, and which only appear in your [Github.com notifications](https://github.com/notifications).
 
-Too many emails? Not a problem. You can use the "Subscribe" or "Unsubscribe" buttons on individual discussions. You can also toggle your global notification preferences in your [account settings](https://github.com/settings/notifications), to control which notifications go to email, and which only appear in your [Github.com notifications](https://github.com/notifications).
+Want to add images to your questions/comments, or stick in some :+1: :boom: :sunglasses: :mortar_board:?  See [the Markdown guide](https://guides.github.com/features/mastering-markdown/).
