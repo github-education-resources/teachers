@@ -1,4 +1,4 @@
-### This discussion space has moved to the new [GitHub Education Community](https://education.github.community).
+### This discussion space has moved to the [GitHub Education Community](https://education.github.community).
 
 ----
 
