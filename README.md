@@ -1,3 +1,7 @@
+### This discussion space has moved to the [GitHub Education Community](https://education.github.community).
+
+----
+
 # GitHub's teacher community
 
 Welcome to the teacher community on GitHub, a collaborative space for sharing ideas around using GitHub in learning environments.
